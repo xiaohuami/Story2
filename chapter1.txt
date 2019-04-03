@@ -1,1 +1,2 @@
-THis is a story about zoo.
+This is a story about zoo.
+There are a lot of animals, eg: dog, cat, mouse, rubbit.
